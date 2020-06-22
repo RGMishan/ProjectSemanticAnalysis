@@ -18,3 +18,4 @@ def get_neg(str):
         if i in negative_words:
             k += 1
     return k
+
